@@ -24,3 +24,4 @@ AI engineer based in Rome, building **multi-agent systems**, **agentic RAG**, an
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/emanuele-ielo/)
 - 🐙 GitHub: [@emanueleielo](https://github.com/emanueleielo)
+
