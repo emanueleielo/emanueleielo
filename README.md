@@ -14,7 +14,6 @@ AI engineer based in Rome, building **multi-agent systems**, **agentic RAG**, an
   - [`VaibeVoice`](https://github.com/emanueleielo/VaibeVoice) — real-time AI voice transcription with smart formatting
 - 🔬 **Agent research patterns**
   - [`langgraph-think-tool`](https://github.com/emanueleielo/langgraph-think-tool) — structured reasoning for tool-using agents
-  - [`ReAI`](https://github.com/emanueleielo/ReAI) — LLM agents for legacy-code refactoring
 
 ## Stack
 
