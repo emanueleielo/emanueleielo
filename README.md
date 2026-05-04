@@ -1,6 +1,6 @@
 # Hi, I'm Emanuele 👋
 
-AI engineer based in Rome, building **multi-agent systems**, **agentic RAG**, and tooling around **LangGraph**, **DeepAgents**, and **Claude Code**.
+AI engineer based in Rome, building **multi-agent systems**, **agentic RAG**, and tooling around **LangChain**, **LangGraph**, **DeepAgents**, and **Claude Code**.
 
 ## What I'm working on
 
